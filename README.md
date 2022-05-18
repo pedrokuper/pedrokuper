@@ -7,7 +7,7 @@ Fullstack Web Developer
 * 🌍  I'm based in Buenos Aires, Argentina.
 * 🖥️  My portfolio [here](https://www.pedrokuper.com.ar/)
 * ✉️  You can contact me at [pkupersmit@gmail.com](mailto:pkupersmit@gmail.com)
-* 🚀  I'm currently working at [Digiventures](http://https://www.digiventures.la/) as a fullstack developer.
+* 🚀  I'm currently working at [Digiventures](https://www.digiventures.la/) as a fullstack developer.
 * 🧠  I'm currently learning JAVA & OOP 
 
 ### Skills

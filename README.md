@@ -8,7 +8,7 @@ Fullstack Web Developer
 * 🖥️  See my portfolio [here](https://www.pedrokuper.com.ar/)
 * ✉️  You can contact me at [pkupersmit@gmail.com](mailto:pkupersmit@gmail.com)
 * 🚀  I'm currently working at [Digiventures](http://https://www.digiventures.la/)
-* 🧠  I'm currently learning JAVA & POO 
+* 🧠  I'm currently learning JAVA & OOP 
 
 ### Skills
 

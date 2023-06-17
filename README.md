@@ -1,7 +1,7 @@
-Hi 👋 My name is Pedro
+Hi there! My name is Pedro 
 ======================
 
-Fullstack Web Developer
+Software Developer
 -----------------------
 
 * 🌍  I'm based in Buenos Aires, Argentina.

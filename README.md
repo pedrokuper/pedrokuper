@@ -8,7 +8,7 @@ Software Developer
 * 🖥️  My portfolio [here](https://www.pedrokuper.com.ar/)
 * ✉️  You can contact me at [pkupersmit@gmail.com](mailto:pkupersmit@gmail.com)
 * 🚀  I'm currently working at [Digiventures](https://www.digiventures.la/) as a fullstack developer.
-* 🧠  I'm currently learning Java, OOP & Typescript
+* 🧠  I'm currently learning ReactNative
 
 ### Tools of the trade
 

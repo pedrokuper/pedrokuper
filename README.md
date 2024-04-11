@@ -1,4 +1,4 @@
-Hi there! My name is Pedro 
+Hi! My name is Pedro 
 ======================
 
 Software Developer

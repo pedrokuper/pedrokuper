@@ -4,11 +4,11 @@ Hi! My name is Pedro
 Software Developer
 -----------------------
 
-* 🌍  I'm based in Buenos Aires, Argentina.
-* 🖥️  My portfolio [here](https://www.pedrokuper.com.ar/)
-* ✉️  You can contact me at [pkupersmit@gmail.com](mailto:pkupersmit@gmail.com)
-* 🚀  I'm currently working at [Digiventures](https://www.digiventures.la/) as a fullstack developer.
-* 🧠  I'm currently learning ReactNative
+* 🌍  Buenos Aires, Argentina.
+* 🖥️  Portfolio [here](https://www.pedrokuper.com.ar/)
+* ✉️  Contact me at [pkupersmit@gmail.com](mailto:pkupersmit@gmail.com)
+* 🚀  Currently working at [Digiventures](https://www.digiventures.la/) as a Fullstack Developer.
+* 🧠  Currently learning ReactNative
 
 ### Tools of the trade
 
